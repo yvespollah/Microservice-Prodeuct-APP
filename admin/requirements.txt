@@ -11,7 +11,11 @@ mysqlclient==2.0.1
 django-mysql==3.9  
 
 # Middleware for handling Cross-Origin Resource Sharing (CORS) in Django
-django-cors-headers==3.5.0  
+django-cors-headers==3.14.0
 
 # Pika library for handling RabbitMQ message queuing in Python
 pika==1.1.0  
+
+pytz
+
+
